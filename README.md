@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Kartik Murti
 
-<!--
-**kartikmurti/kartikmurti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Engineering Student  
+🔧 Interested in Embedded Systems, VLSI & Semiconductor Technology  
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- I am an Electronics & Communication Engineering student  
+- I am interested in core electronics, semiconductor technology, and system design  
+- I like working on real-world engineering projects  
+- Currently learning programming, core ECE subjects, and semiconductor basics  
+
+---
+
+## 🛠️ Skills
+- Programming: Python, C  
+- Tools: Arduino, MATLAB  
+- Domains: Embedded Systems, VLSI, Semiconductor Fundamentals  
+
+---
+
+## 📌 Projects
+- **YOLO Object Detection** – Object detection using Python & OpenCV  
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/kartikmurti
