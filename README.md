@@ -22,7 +22,8 @@
 ---
 
 ## 📌 Projects
-- **YOLO Object Detection** – Object detection using Python & OpenCV  
+- **YOLO Object Detection** – Object detection using Python & OpenCV
+- **RTL-to-GDSII-Calculator** - flow of an 8-bit calculator using OpenLane and Sky130 PDK
 
 ---
 
