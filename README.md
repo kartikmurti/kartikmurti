@@ -22,6 +22,7 @@
 ---
 
 ## 📌 Projects
+- **AHB-to-APB-Bridge** - A cycle-accurate AHB to APB Bridge interface designed in Verilog and verified with Icarus Verilog.
 - **YOLO Object Detection** – Object detection using Python & OpenCV
 - **RTL-to-GDSII-Calculator** - flow of an 8-bit calculator using OpenLane and Sky130 PDK
 
